@@ -1,7 +1,7 @@
 
 # colab_diffusers_with_civitai_checkpoint_model
 
-GoogleColab上で[civitai](https://civitai.com/)のモデルを[Diffusers](https://huggingface.co/docs/diffusers/index)で読み込み、画像生成を行う事のできるリポジトリです
+GoogleColab上で[civitai](https://civitai.com/)のモデルを[Diffusers](https://huggingface.co/docs/diffusers/index)で読み込み、画像生成を行う事のできるノートブックです
 
 
 ## Colab
