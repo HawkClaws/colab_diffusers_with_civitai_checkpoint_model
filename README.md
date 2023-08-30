@@ -6,7 +6,7 @@ GoogleColab上で[civitai](https://civitai.com/)のモデルを[Diffusers](https
 
 ## Colab
 
-<a href="https://colab.research.google.com/github/HawkClaws/colab_diffusers_with_civitai_checkpoint_model/blob/main/colab_diffusers_with_civitai_checkpoint_model.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/HawkClaws/colab_diffusers_with_civitai_checkpoint_model/blob/main/colab_diffusers_with_civitai_checkpoint_model.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 ## 使い方
