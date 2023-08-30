@@ -17,10 +17,5 @@ GoogleColab上で[civitai](https://civitai.com/)のモデルを[Diffusers](https
 3. モデルのダウンロードリンクをコピーします
 ![image](./images/htu2.png)
 4. MODEL_URLにダウンロードリンクを貼り付けます
-
-```python
-MODEL_URL = "https://civitai.com/api/download/models/XXXXX"
-```
-
 5. Setupのコードを実行します
 6. 画像生成のパラメータ（プロンプト）を入力しGenerate Imageのコードを実行します
